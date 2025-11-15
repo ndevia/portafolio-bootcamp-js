@@ -34,5 +34,3 @@ $(document).ready(function() {
     $(".icono", this).removeClass("fa-beat");
   });
 });
-
-// fa-bounce para iconos de navbar y footer

@@ -60,7 +60,7 @@ body {
 
 .titulo-secundario {
   color: var(--color-primario);
-  font-size: 1.5rem; /* para desktop */
+  font-size: 1.5rem; 
 }
 
 .titulo-terciario {
